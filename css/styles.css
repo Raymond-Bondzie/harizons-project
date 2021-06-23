@@ -1,0 +1,39 @@
+.img{
+	height: 40px;
+	width: 150px;
+}
+
+.flags{
+	height: 10px;
+	margin-right: 5px;
+}
+
+
+.container a{
+	color: grey;
+	font-style: bold;
+
+}
+
+#flags{
+	padding-right: 50px;
+}
+
+.footer{
+	background-color: darkblue;
+	color: white;
+	text-indent: none;
+}
+
+.green{
+	color: green;
+}
+
+.orange{
+	color: darkorange;
+}
+
+
+.parent{
+	padding: 200px;
+}
